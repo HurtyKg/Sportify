@@ -15,7 +15,7 @@ export function Main () {
 
       <a href="" 
       className="a-music"> 
-      <img className="img-music" src="/src/assets/adele.png" 
+      <img className="img-music" src="src/assets/adele.png" 
       alt="adele foto" />
       <div className="content-card">
        <strong className="title-card">Adele</strong>
