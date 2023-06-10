@@ -13,7 +13,7 @@ A ideia deste projeto foi clona a ui do Sportify.
 
 ### 💻 Link
 
-https://pokemon-beta-seven.vercel.app/
+sportify-5pg7eq6fj-hurtykg.vercel.app
 
 ## Participantes
 
