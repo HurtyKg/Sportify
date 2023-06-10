@@ -1,4 +1,6 @@
 import { Shuffle, SkipBack, Play, SkipForward, Repeat, Mic2, LayoutList, Laptop2, Volume, Maximize2 } from "lucide-react";
+import xxx from "../assets/xxxtentacion.png";
+
 
 export function Footer() {
   return (
@@ -6,7 +8,7 @@ export function Footer() {
     <div className="content-footer">
        <div className="container-footer">
        <img 
-       src="src/assets/xxxtentacion.png"
+       src={xxx}
        alt="music xxxtentacion" 
        className="music-footer"
        />

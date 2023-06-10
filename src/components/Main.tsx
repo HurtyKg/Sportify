@@ -1,5 +1,15 @@
 import { ChevronLeft, ChevronRight, Play } from "lucide-react";
-
+import adele from "../assets/adele.png";
+import eminen from "../assets/rap.png";
+import ariana from "../assets/ariana.png";
+import james from "../assets/james.png";
+import park from "../assets/link.png";
+import justin from "../assets/justin.png";
+import xxx from "../assets/xxxtentacion.png";
+import xxxtentacion  from "../assets/album.png";
+import forever from "../assets/forever.png";
+import skins from "../assets/skins.png";
+import revenge from "../assets/tentacion.png";
 
 export function Main () {
   return (
@@ -15,7 +25,7 @@ export function Main () {
 
       <a href="" 
       className="a-music"> 
-      <img className="img-music" src="src/assets/adele.png" 
+      <img className="img-music" src={adele} 
       alt="adele foto" />
       <div className="content-card">
        <strong className="title-card">Adele</strong>
@@ -28,7 +38,7 @@ export function Main () {
       <a href="" 
       className="a-music"> 
       <img className="img-music" 
-      src="src/assets/rap.png" 
+      src={eminen}
       alt="eminem foto" />
       <div className="content-card">
         <strong className="title-card">Eminem</strong>
@@ -42,7 +52,7 @@ export function Main () {
       className="a-music"> 
       <img 
       className="img-music"
-      src="src/assets/ariana.png"
+      src={ariana}
       alt="ariana foto" />
         <div className="content-card">
         <strong className="title-card">Arina Grande</strong>
@@ -57,7 +67,7 @@ export function Main () {
       <a href=""
        className="a-music"> 
        <img className="img-music" 
-       src="src/assets/james.png" alt="james foto"/> 
+       src={james} alt="james foto"/> 
         <div className="content-card">
           <strong className="title-card">James Arthur</strong>
           <button className="play">
@@ -69,7 +79,7 @@ export function Main () {
       <a href=""
        className="a-music"> 
        <img className="img-music" 
-       src="src/assets/link.png" 
+       src={park}
        alt="link foto" />  
        <div className="content-card">
         <strong className="title-card">Linkin Park</strong>
@@ -82,7 +92,7 @@ export function Main () {
       <a href=""
         className="a-music">
         <img className="img-music"
-        src="src/assets/justin.png" 
+        src={justin}
         alt="justin foto" />  
         <div className="content-card">
         <strong className="title-card">Justin Bieber</strong>
@@ -101,35 +111,35 @@ export function Main () {
       <a href="" className="a-music-card"> 
       <img 
       className="img-album"
-      src="src/assets/xxxtentacion.png" 
+      src={xxx} 
       alt="album xxxtentacion"/>
         <strong className="strong">?</strong>
         <span className="span">XXXTENTACION</span>
       </a>
 
       <a href="" className="a-music-card"> <img className="img-album"
-       src="src/assets/album.png"
+       src={xxxtentacion}
        alt="album xxxtentacion" />
         <strong className="strong">?</strong>
         <span className="span">XXXTENTACION</span>
         </a>
 
       <a href="" className="a-music-card"> <img className="img-album" 
-      src="src/assets/forever.png" 
+      src={forever} 
       alt="album xxxtentacion" />
        <strong className="strong">17</strong>
         <span className="span">XXXTENTACION</span>
         </a>
 
       <a href="" className="a-music-card"> <img className="img-album"
-       src="src/assets/skins.png" 
+       src={skins} 
        alt="album xxxtentacion" /> 
        <strong className="strong">Bad Vibes Forever</strong>
         <span className="span">XXXTENTACION</span>
         </a>
 
       <a href="" className="a-music-card"> <img className="img-album" 
-      src="src/assets/tentacion.png" 
+      src={revenge} 
       alt="album xxxtentacion" /> 
       <strong className="strong">Revenge</strong>
         <span className="span">XXXTENTACION</span>
