@@ -11,6 +11,9 @@
 A ideia deste projeto foi clona a ui do Sportify. 
 ![preview img](src/assets/spotify.png)
 
+### 💻 Link
+
+https://pokemon-beta-seven.vercel.app/
 
 ## Participantes
 
