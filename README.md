@@ -13,7 +13,7 @@ A ideia deste projeto foi clona a ui do Sportify.
 
 ### 💻 Link
 
-sportify-5pg7eq6fj-hurtykg.vercel.app
+https://sportify-5pg7eq6fj-hurtykg.vercel.app/
 
 ## Participantes
 
